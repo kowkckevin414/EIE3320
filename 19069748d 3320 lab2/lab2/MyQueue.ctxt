@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyQueue
+comment1.params=e
+comment1.target=void\ enqueue(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ dequeue()
+comment3.params=
+comment3.target=int\ getSize()
+comment4.params=
+comment4.target=MyLinkedList\ getList()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

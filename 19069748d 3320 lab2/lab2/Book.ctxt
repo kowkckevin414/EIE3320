@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Book
+comment1.params=
+comment1.target=Book()
+comment10.params=
+comment10.target=MyQueue\ getReservedQueue()
+comment2.params=title\ ISBN
+comment2.target=Book(java.lang.String,\ java.lang.String)
+comment3.params=title
+comment3.target=void\ setTitle(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment5.params=ISBN
+comment5.target=void\ setISBN(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getISBN()
+comment7.params=available
+comment7.target=void\ setAvailable(boolean)
+comment8.params=
+comment8.target=boolean\ isAvailable()
+comment9.params=queue
+comment9.target=void\ setReservedQueue(MyQueue)
+numComments=11
